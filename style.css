@@ -1,0 +1,55 @@
+#css-zen-garden {
+	background-color: #fdfdfd;
+	font-family: Verdana;
+    
+}
+.page-wrapper{
+
+}
+
+header{
+	background-color: #fdcbf5;
+	border-radius: 5px;
+	text-align: center;
+	width: 1835px;
+	height: 200px;
+	margin: 0 auto;
+	font-size: 25px;
+	padding-top: 10px;
+}
+.summary{
+	margin-left: 90px;
+    margin-top: 50px;
+    padding-left: 10px;
+}
+.preamble{
+	margin-left: 90px;
+    margin-top: 50px;
+    padding-left: 10px;
+}
+
+#zen-supporting{
+	float: left;
+    width: 1450px;
+    background-color: #E2A9F3;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    margin-left: 90px;
+   }
+
+.sidebar{
+	width: 350px;
+    height: 882px;
+    background-color: #F6CECE;
+    margin-left: 10px;
+	margin-top: 10px;
+	float: left;
+	padding-left: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+footer{
+	background-color: #bab1cb;
+}
